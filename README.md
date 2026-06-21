@@ -76,3 +76,8 @@ git push origin tugas-nama-anda
 * **Hardware Tambahan:** FTDI Programmer (untuk *flashing* kode), Kabel Jumper, Breadboard.
 * **Development Environment:** Arduino IDE / PlatformIO Ecosystem
 * **Version Control:** Git Engine & GitHub Repository Container
+
+
+```bash
+# 1. Lebih lanjutnya tanya AI ya
+```
