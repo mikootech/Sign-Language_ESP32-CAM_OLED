@@ -79,5 +79,5 @@ git push origin tugas-nama-anda
 
 
 ```bash
-# 1. Lebih lanjutnya tanya AI ya
+Lebih lanjutnya tanya AI ya
 ```
